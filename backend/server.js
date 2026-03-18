@@ -14,8 +14,8 @@ const port = 3000;
 const db = new pg.Client({
   user: "postgres",
   host: "localhost",
-  database: "PathFinder_db",
-  password: "Gpadma@123", 
+  database: "add_your_db_name_here",
+  password: "add_your_password_here", 
   port: 5432,
 });
 db.connect();
