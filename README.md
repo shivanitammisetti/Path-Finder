@@ -38,21 +38,16 @@
    git clone https://github.com/shivanitammisetti/Path-Finder.git
 
 2.Navigate to backend:
-   ```bash
    cd backend
 
 3.Install dependencies:
-```bash
 npm install
 
-Setup database:
-
+4.Setup database:
 Run the SQL commands in setup.sql
 
-Start the server:
-```bash
+5.Start the server:
 node server.js
 
-Open in browser:
-```bash
+6.Open in browser:
 http://localhost:3000
