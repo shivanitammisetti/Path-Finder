@@ -1,5 +1,58 @@
-Student Path Finder is a smart web-based application designed to guide students in choosing the most suitable academic and career paths based on their interests, strengths, and goals.
-The platform provides personalized recommendations that include streams, courses, and future career opportunities. With an intuitive interface, students can create accounts, input preferences,
-explore suggested paths, and access detailed information about academic and professional options.
-The application is built using HTML, CSS, and JavaScript for a responsive front end and connects to a secure backend database that manages user profiles, interests, path recommendations,
-and course and career details.
+# 🚀 Student Path Finder
+
+**Student Path Finder** is a smart web-based application that helps students choose the most suitable academic and career paths based on their interests, strengths, and goals.
+
+---
+
+## 🌟 Features
+
+- 🔐 User Authentication (Signup/Login)
+- 🧠 Personalized Career Recommendations
+- 🗺️ Roadmaps for Different Domains (DSA, Data Science, DBMS, etc.)
+- 🌙 Dark Mode for better user experience
+- 👤 Personalized Dashboard (Welcome user)
+- 💾 PostgreSQL Database Integration
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML
+- CSS
+- JavaScript
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Database:**
+- PostgreSQL
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shivanitammisetti/Path-Finder.git
+
+Navigate to backend:
+
+cd backend
+
+Install dependencies:
+
+npm install
+
+Setup database:
+
+Run the SQL commands in setup.sql
+
+Start the server:
+
+node server.js
+
+Open in browser:
+
+http://localhost:3000
