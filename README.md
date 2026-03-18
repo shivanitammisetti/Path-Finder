@@ -32,9 +32,8 @@
 ---
 
 ## ⚙️ Setup Instructions
-
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/shivanitammisetti/Path-Finder.git
    ```
 2.Navigate to backend:
@@ -46,9 +45,8 @@
    npm install
    ```
 4.Setup database:
-
     Run the SQL commands in setup.sql
-
+    
 5.Start the server:
    ```
    node server.js
